@@ -1,5 +1,10 @@
 # MMM Project :
 
+## Projet M2 : 
+
+Projet en Groupe de Master 2 Informatique (Alexis Lesne, Alex Van Niekerk, Maxime Pelcat, Théo Laperrouse) réalisé dans une période de 2 jours.
+
+
 ## Accès JSON : 
 
 Via la fonction getDataFromJson() dans TransData.dart
@@ -117,19 +122,3 @@ Spotify SDK : (https://pub.dev/packages/spotify_sdk)
 3°) Fonction play en ajoutant l'idAlbum disponible dans le json en paramètre
 
 Deezer SDK : https://developers.deezer.com/guidelines/getting_started
-
-## Consignes présentation
-
-Les soutenances MMM sont prévues le Vendredi 5 Février à 14h15. 5 groupes à passer, dans l'ordre (A à E), soit 15/20mn par groupe.
-Pour chaque groupe :
-	
-une présentation de 10mn avec des slides. Cela comporte : Choix des Techno, Architecture du projet (quels composants, quels liens entre les composants, local, distant, etc), Librairies spécifiques (si c'est le cas), Fonctionnalité supplémentaire (si c'est le cas). Difficultés rencontrées.
-	une démo live de 2 à 4 mn. Soit par émulateur, soit par stream de votre téléphone.
-	des questions/réponses par Jean-Baptiste et moi-même.
-
-Pour la présentation : un des étudiants pourra streamer les slides et vous parlez tour à tour. Une autre option est préparer une vidéo en amont. Dans le deux cas, merci de partager ces éléménts 30mn avant le début de la session sur ce channel.
-Pour la démo : un des étudiants (avec une bonne connexion réseau) stream son device ou l'émulateur / la console firebase pour illustrer les fonctionnalités. D'autres étudiants peuvent modifier les données entre temps (pour voir les changements, eg ajout de parcours).
-Pour les questions: vous pouvez aussi poser des questions à vos camarades.
- 
-N'hésitez pas à animer le channel pendant la présentation (questions/ remarques /retours).
-Bonne préparation à tous.
