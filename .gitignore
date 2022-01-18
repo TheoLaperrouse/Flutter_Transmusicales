@@ -1,0 +1,117 @@
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+.classpath
+.project
+.settings/
+.vscode/
+
+# Flutter repo-specific
+trans_mmm/bin/cache/
+trans_mmm/bin/internal/bootstrap.bat
+trans_mmm/bin/internal/bootstrap.sh
+trans_mmm/bin/mingit/
+trans_mmm/dev/benchmarks/mega_gallery/
+trans_mmm/dev/bots/.recipe_deps
+trans_mmm/dev/bots/android_tools/
+trans_mmm/dev/devicelab/ABresults*.json
+trans_mmm/dev/docs/doc/
+trans_mmm/dev/docs/flutter.docs.zip
+trans_mmm/dev/docs/lib/
+trans_mmm/dev/docs/pubspec.yaml
+trans_mmm/dev/integration_tests/**/xcuserdata
+trans_mmm/dev/integration_tests/**/Pods
+trans_mmm/packages/flutter/coverage/
+trans_mmmversion
+trans_mmmanalysis_benchmark.json
+
+# packages file containing multi-root paths
+.packages.generated
+
+# Flutter/Dart/Pub related
+**/doc/api/
+trans_mmm/.dart_tool/
+trans_mmm/.flutter-plugins
+trans_mmm/.flutter-plugins-dependencies
+**/generated_plugin_registrant.dart
+trans_mmm/.packages
+trans_mmm/.pub-cache/
+trans_mmm/.pub/
+trans_mmm/build/
+trans_mmm/flutter_*.png
+trans_mmm/linked_*.ds
+trans_mmm/unlinked.ds
+trans_mmm/unlinked_spec.ds
+
+# Android related
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/key.properties
+*.jks
+
+# iOS/XCode related
+**/ios/**/*.mode1v3
+**/ios/**/*.mode2v3
+**/ios/**/*.moved-aside
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+**/ios/**/*sync/
+**/ios/**/.sconsign.dblite
+**/ios/**/.tags*
+**/ios/**/.vagrant/
+**/ios/**/DerivedData/
+**/ios/**/Icon?
+**/ios/**/Pods/
+**/ios/**/.symlinks/
+**/ios/**/profile
+**/ios/**/xcuserdata
+**/ios/.generated/
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Coverage
+coverage/
+
+# Symbols
+app.*.symbols
+
+# Exceptions to above rules.
+!**/ios/**/default.mode1v3
+!**/ios/**/default.mode2v3
+!**/ios/**/default.pbxuser
+!**/ios/**/default.perspectivev3
+!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+!/dev/ci/**/Gemfile.lock

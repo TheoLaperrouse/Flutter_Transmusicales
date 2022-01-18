@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280542115859",
+    "project_id": "mmmtrans-3f45f",
+    "storage_bucket": "mmmtrans-3f45f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280542115859:android:9be2970d6dd7350659e7e6",
+        "android_client_info": {
+          "package_name": "fr.istic.mmm_trans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280542115859-3ecfd59qtgvpg6383kmhfp43g2htd5ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK3VOQSCn3c5alShkFUoyZUUQwnYEodVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280542115859-3ecfd59qtgvpg6383kmhfp43g2htd5ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
